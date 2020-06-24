@@ -1,12 +1,12 @@
-# About Me
+# Hey There!
 
 {{< figure src="./img/naek.jpg" alt="Picture of me in Gatineau Park!" position="center" style="border: 10px solid #78e2a0; padding: 10px;" caption="Picture of me in Gatineau Park!" captionPosition="center" captionStyle="color: black;" >}}
 
-Hey! I'm Nicolas El-Khoury, a 3rd year computer science undergraduate in the computer and internet security stream at Carleton University.
+I'm Nicolas El-Khoury, a 3rd year computer science undergraduate in the computer and internet security stream at Carleton University.
 
 If you want to send me an email: nick@naek.ca
 
-# Skills
+# My Skills
 
 **Web Development**
 
@@ -24,7 +24,7 @@ I am familiar with working in both **SQL** and **NoSQL** environments due to wor
 
 I have used both **Windows** and **Linux** in both desktop and server environments. I have a soft spot for Linux due to the built-in package managers and simplicity of use but I primarily use Windows for my personal computers.
 
-# Projects
+# My Side-Projects
 
 **Stock Tracker** [GitHub](https://github.com/naek2k/stocktracker)
 
@@ -37,3 +37,5 @@ I have used both **Windows** and **Linux** in both desktop and server environmen
 **Typing Test** [GitHub](https://github.com/naek2k/typing-test)
 
 - A completely client-side typing test that I created with jQuery and UnderscoreJS.
+
+If you want to learn more about me, go [here](/aboutme)!
